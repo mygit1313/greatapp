@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#bg-text {
+  position: fixed;
+  top: 26%;
+  left: 24%;
+  opacity: 0.8;
+  /* color: #D6D6CA; */
+  color: rgb(0 0 0 / 19%);
+  font-size: 28px;
+  transform: rotate(320deg);
+  -webkit-transform: rotate(337deg);
+}
